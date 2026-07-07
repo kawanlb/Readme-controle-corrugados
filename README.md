@@ -29,9 +29,9 @@ O objetivo é dar rastreabilidade ao ciclo de vida de cada gaiola, registrando:
 
 O sistema trabalha com três perfis principais, identificados por e-mail no Firebase Auth:
 
-- Admin: `admin@controle.local`
-- Produção: `producao@controle.local`
-- Logística: `logistica@controle.local`
+- Admin: `admin.............`
+- Produção: `producao.............`
+- Logística: `logistica.........`
 
 Cada perfil enxerga rotas e ações diferentes:
 
